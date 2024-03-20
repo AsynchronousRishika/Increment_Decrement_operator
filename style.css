@@ -1,0 +1,16 @@
+body{
+    background-color:pink;
+}
+
+.body{
+    border:1px solid white;   
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-content:center;
+    left:40% ;  /* position the div in the center of the page */
+      
+    position:fixed;
+
+}
+
